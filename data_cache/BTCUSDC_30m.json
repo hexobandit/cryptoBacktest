@@ -623,8 +623,21 @@
       "trades": 5045,
       "taker_buy_base_volume": 15.2678,
       "taker_buy_quote_volume": 1715578.4851374
+    },
+    {
+      "timestamp": "2025-08-28T17:30:00.000000Z",
+      "open": 112548.0,
+      "high": 112548.0,
+      "low": 112410.0,
+      "close": 112507.6,
+      "volume": 5.97275,
+      "close_time": "2025-08-28T17:59:59.999000Z",
+      "quote_volume": 671797.6059498,
+      "trades": 1370,
+      "taker_buy_base_volume": 2.98876,
+      "taker_buy_quote_volume": 336176.4958358
     }
   ],
-  "last_update": "2025-08-28T17:00:00+00:00",
-  "cached_at": "2025-08-28T17:09:13.469376+00:00"
+  "last_update": "2025-08-28T17:30:00+00:00",
+  "cached_at": "2025-08-28T17:35:53.502433+00:00"
 }

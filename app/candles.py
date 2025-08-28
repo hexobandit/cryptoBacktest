@@ -111,8 +111,8 @@ def load_klines(
                     new_df = new_df[new_df["timestamp"] > last_timestamp]
                     
                     if len(new_df) > 0:
-                        # Merge with cache
-                        df = cache_manager.merge_with_cache(symbol, timeframe, new_df)
+                        # Merge with cache, passing days_back parameter
+                        df = cache_manager.merge_with_cache(symbol, timeframe, new_df, days_back)
                         cache_manager.save_cache(symbol, timeframe, df)
                     else:
                         df = cached_df

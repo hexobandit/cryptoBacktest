@@ -129,7 +129,7 @@ class CacheManager:
         self.update_metadata(symbol, timeframe, df)
     
     def merge_with_cache(
-        self, symbol: str, timeframe: str, new_df: pd.DataFrame
+        self, symbol: str, timeframe: str, new_df: pd.DataFrame, days_back: Optional[int] = None
     ) -> pd.DataFrame:
         """
         Merge new data with cached data, removing duplicates.
@@ -138,6 +138,7 @@ class CacheManager:
             symbol: Trading pair symbol
             timeframe: Timeframe string
             new_df: New DataFrame to merge
+            days_back: Number of days to keep (optional)
         
         Returns:
             Merged DataFrame
@@ -156,9 +157,10 @@ class CacheManager:
         # Sort by timestamp
         combined_df = combined_df.sort_values("timestamp").reset_index(drop=True)
         
-        # Trim to days_back range
-        cutoff_time = datetime.now(timezone.utc) - timedelta(days=settings.days_back)
-        combined_df = combined_df[combined_df["timestamp"] >= cutoff_time]
+        # Trim to days_back range if specified
+        if days_back is not None:
+            cutoff_time = datetime.now(timezone.utc) - timedelta(days=days_back)
+            combined_df = combined_df[combined_df["timestamp"] >= cutoff_time]
         
         return combined_df
     

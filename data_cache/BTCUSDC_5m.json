@@ -3743,8 +3743,47 @@
       "trades": 624,
       "taker_buy_base_volume": 1.25065,
       "taker_buy_quote_volume": 140590.1877476
+    },
+    {
+      "timestamp": "2025-08-28T17:25:00.000000Z",
+      "open": 112481.99,
+      "high": 112529.28,
+      "low": 112435.21,
+      "close": 112518.0,
+      "volume": 4.39564,
+      "close_time": "2025-08-28T17:29:59.999000Z",
+      "quote_volume": 494410.1168946,
+      "trades": 602,
+      "taker_buy_base_volume": 1.65742,
+      "taker_buy_quote_volume": 186400.6703558
+    },
+    {
+      "timestamp": "2025-08-28T17:30:00.000000Z",
+      "open": 112548.0,
+      "high": 112548.0,
+      "low": 112410.0,
+      "close": 112453.23,
+      "volume": 5.46796,
+      "close_time": "2025-08-28T17:34:59.999000Z",
+      "quote_volume": 615026.442991,
+      "trades": 1204,
+      "taker_buy_base_volume": 2.76499,
+      "taker_buy_quote_volume": 311007.8997417
+    },
+    {
+      "timestamp": "2025-08-28T17:35:00.000000Z",
+      "open": 112453.22,
+      "high": 112466.3,
+      "low": 112444.01,
+      "close": 112466.29,
+      "volume": 0.2593,
+      "close_time": "2025-08-28T17:39:59.999000Z",
+      "quote_volume": 29159.4297494,
+      "trades": 67,
+      "taker_buy_base_volume": 0.05168,
+      "taker_buy_quote_volume": 5811.8884425
     }
   ],
-  "last_update": "2025-08-28T17:20:00+00:00",
-  "cached_at": "2025-08-28T17:22:11.433642+00:00"
+  "last_update": "2025-08-28T17:35:00+00:00",
+  "cached_at": "2025-08-28T17:35:31.112073+00:00"
 }
