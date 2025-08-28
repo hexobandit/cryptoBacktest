@@ -3,10 +3,10 @@
     "BTCUSDC_1m": {
       "symbol": "BTCUSDC",
       "timeframe": "1m",
-      "count": 4320,
-      "first_candle": "2025-08-25T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:10.292874+00:00"
+      "count": 1440,
+      "first_candle": "2025-08-27T17:22:00+00:00",
+      "last_candle": "2025-08-28T17:21:00+00:00",
+      "cached_at": "2025-08-28T17:21:53.138047+00:00"
     },
     "BTCUSDC_4h": {
       "symbol": "BTCUSDC",
@@ -19,10 +19,10 @@
     "ETHUSDC_1m": {
       "symbol": "ETHUSDC",
       "timeframe": "1m",
-      "count": 4320,
-      "first_candle": "2025-08-25T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:12.307649+00:00"
+      "count": 1440,
+      "first_candle": "2025-08-27T17:22:00+00:00",
+      "last_candle": "2025-08-28T17:21:00+00:00",
+      "cached_at": "2025-08-28T17:21:54.731245+00:00"
     },
     "ETHUSDC_4h": {
       "symbol": "ETHUSDC",
@@ -35,10 +35,10 @@
     "BNBUSDC_1m": {
       "symbol": "BNBUSDC",
       "timeframe": "1m",
-      "count": 4320,
-      "first_candle": "2025-08-25T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:14.273385+00:00"
+      "count": 1440,
+      "first_candle": "2025-08-27T17:22:00+00:00",
+      "last_candle": "2025-08-28T17:21:00+00:00",
+      "cached_at": "2025-08-28T17:21:56.255601+00:00"
     },
     "BNBUSDC_4h": {
       "symbol": "BNBUSDC",
@@ -51,10 +51,10 @@
     "ADAUSDC_1m": {
       "symbol": "ADAUSDC",
       "timeframe": "1m",
-      "count": 4320,
-      "first_candle": "2025-08-25T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:16.269958+00:00"
+      "count": 1440,
+      "first_candle": "2025-08-27T17:22:00+00:00",
+      "last_candle": "2025-08-28T17:21:00+00:00",
+      "cached_at": "2025-08-28T17:21:57.761542+00:00"
     },
     "ADAUSDC_4h": {
       "symbol": "ADAUSDC",
@@ -67,10 +67,10 @@
     "XRPUSDC_1m": {
       "symbol": "XRPUSDC",
       "timeframe": "1m",
-      "count": 4320,
-      "first_candle": "2025-08-25T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:18.264949+00:00"
+      "count": 1440,
+      "first_candle": "2025-08-27T17:22:00+00:00",
+      "last_candle": "2025-08-28T17:21:00+00:00",
+      "cached_at": "2025-08-28T17:21:59.364056+00:00"
     },
     "XRPUSDC_4h": {
       "symbol": "XRPUSDC",
@@ -83,10 +83,10 @@
     "DOGEUSDC_1m": {
       "symbol": "DOGEUSDC",
       "timeframe": "1m",
-      "count": 4320,
-      "first_candle": "2025-08-25T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:20.264750+00:00"
+      "count": 1440,
+      "first_candle": "2025-08-27T17:23:00+00:00",
+      "last_candle": "2025-08-28T17:22:00+00:00",
+      "cached_at": "2025-08-28T17:22:00.939518+00:00"
     },
     "DOGEUSDC_4h": {
       "symbol": "DOGEUSDC",
@@ -99,10 +99,10 @@
     "SOLUSDC_1m": {
       "symbol": "SOLUSDC",
       "timeframe": "1m",
-      "count": 4320,
-      "first_candle": "2025-08-25T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:22.237618+00:00"
+      "count": 1440,
+      "first_candle": "2025-08-27T17:23:00+00:00",
+      "last_candle": "2025-08-28T17:22:00+00:00",
+      "cached_at": "2025-08-28T17:22:02.483481+00:00"
     },
     "SOLUSDC_4h": {
       "symbol": "SOLUSDC",
@@ -115,10 +115,10 @@
     "PEPEUSDC_1m": {
       "symbol": "PEPEUSDC",
       "timeframe": "1m",
-      "count": 4320,
-      "first_candle": "2025-08-25T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:24.229743+00:00"
+      "count": 1440,
+      "first_candle": "2025-08-27T17:23:00+00:00",
+      "last_candle": "2025-08-28T17:22:00+00:00",
+      "cached_at": "2025-08-28T17:22:04.002186+00:00"
     },
     "PEPEUSDC_4h": {
       "symbol": "PEPEUSDC",
@@ -131,10 +131,10 @@
     "SHIBUSDC_1m": {
       "symbol": "SHIBUSDC",
       "timeframe": "1m",
-      "count": 4320,
-      "first_candle": "2025-08-25T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:26.162835+00:00"
+      "count": 1440,
+      "first_candle": "2025-08-27T17:23:00+00:00",
+      "last_candle": "2025-08-28T17:22:00+00:00",
+      "cached_at": "2025-08-28T17:22:05.974068+00:00"
     },
     "SHIBUSDC_4h": {
       "symbol": "SHIBUSDC",
@@ -148,9 +148,9 @@
       "symbol": "XLMUSDC",
       "timeframe": "1m",
       "count": 1440,
-      "first_candle": "2025-08-27T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:47.469063+00:00"
+      "first_candle": "2025-08-27T17:23:00+00:00",
+      "last_candle": "2025-08-28T17:22:00+00:00",
+      "cached_at": "2025-08-28T17:22:07.528728+00:00"
     },
     "XLMUSDC_4h": {
       "symbol": "XLMUSDC",
@@ -164,9 +164,9 @@
       "symbol": "LINKUSDC",
       "timeframe": "1m",
       "count": 1440,
-      "first_candle": "2025-08-27T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:48.997131+00:00"
+      "first_candle": "2025-08-27T17:23:00+00:00",
+      "last_candle": "2025-08-28T17:22:00+00:00",
+      "cached_at": "2025-08-28T17:22:08.988359+00:00"
     },
     "LINKUSDC_4h": {
       "symbol": "LINKUSDC",
@@ -180,9 +180,9 @@
       "symbol": "IOTAUSDC",
       "timeframe": "1m",
       "count": 1440,
-      "first_candle": "2025-08-27T17:09:00+00:00",
-      "last_candle": "2025-08-28T17:08:00+00:00",
-      "cached_at": "2025-08-28T17:08:50.578199+00:00"
+      "first_candle": "2025-08-27T17:23:00+00:00",
+      "last_candle": "2025-08-28T17:22:00+00:00",
+      "cached_at": "2025-08-28T17:22:10.452106+00:00"
     },
     "IOTAUSDC_4h": {
       "symbol": "IOTAUSDC",
@@ -196,97 +196,97 @@
       "symbol": "BTCUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:08:51.640075+00:00"
+      "first_candle": "2025-08-27T17:25:00+00:00",
+      "last_candle": "2025-08-28T17:20:00+00:00",
+      "cached_at": "2025-08-28T17:22:11.437242+00:00"
     },
     "ETHUSDC_5m": {
       "symbol": "ETHUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:08:52.565253+00:00"
+      "first_candle": "2025-08-27T17:25:00+00:00",
+      "last_candle": "2025-08-28T17:20:00+00:00",
+      "cached_at": "2025-08-28T17:22:12.310823+00:00"
     },
     "BNBUSDC_5m": {
       "symbol": "BNBUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:08:53.506133+00:00"
+      "first_candle": "2025-08-27T17:25:00+00:00",
+      "last_candle": "2025-08-28T17:20:00+00:00",
+      "cached_at": "2025-08-28T17:22:13.245438+00:00"
     },
     "ADAUSDC_5m": {
       "symbol": "ADAUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:08:54.432259+00:00"
+      "first_candle": "2025-08-27T17:25:00+00:00",
+      "last_candle": "2025-08-28T17:20:00+00:00",
+      "cached_at": "2025-08-28T17:22:14.661708+00:00"
     },
     "XRPUSDC_5m": {
       "symbol": "XRPUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:08:55.423142+00:00"
+      "first_candle": "2025-08-27T17:25:00+00:00",
+      "last_candle": "2025-08-28T17:20:00+00:00",
+      "cached_at": "2025-08-28T17:22:15.588150+00:00"
     },
     "DOGEUSDC_5m": {
       "symbol": "DOGEUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:08:56.373927+00:00"
+      "first_candle": "2025-08-27T17:25:00+00:00",
+      "last_candle": "2025-08-28T17:20:00+00:00",
+      "cached_at": "2025-08-28T17:22:16.569678+00:00"
     },
     "SOLUSDC_5m": {
       "symbol": "SOLUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:08:57.294363+00:00"
+      "first_candle": "2025-08-27T17:25:00+00:00",
+      "last_candle": "2025-08-28T17:20:00+00:00",
+      "cached_at": "2025-08-28T17:22:17.512679+00:00"
     },
     "PEPEUSDC_5m": {
       "symbol": "PEPEUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:08:58.212378+00:00"
+      "first_candle": "2025-08-27T17:25:00+00:00",
+      "last_candle": "2025-08-28T17:20:00+00:00",
+      "cached_at": "2025-08-28T17:22:18.461664+00:00"
     },
     "SHIBUSDC_5m": {
       "symbol": "SHIBUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:08:59.124870+00:00"
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:10:00+00:00",
+      "cached_at": "2025-08-28T17:11:48.618658+00:00"
     },
     "XLMUSDC_5m": {
       "symbol": "XLMUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:09:00.021817+00:00"
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:10:00+00:00",
+      "cached_at": "2025-08-28T17:11:49.742848+00:00"
     },
     "LINKUSDC_5m": {
       "symbol": "LINKUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:09:00.892307+00:00"
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:10:00+00:00",
+      "cached_at": "2025-08-28T17:11:51.116951+00:00"
     },
     "IOTAUSDC_5m": {
       "symbol": "IOTAUSDC",
       "timeframe": "5m",
       "count": 288,
-      "first_candle": "2025-08-27T17:10:00+00:00",
-      "last_candle": "2025-08-28T17:05:00+00:00",
-      "cached_at": "2025-08-28T17:09:01.800384+00:00"
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:10:00+00:00",
+      "cached_at": "2025-08-28T17:11:52.262275+00:00"
     },
     "BTCUSDC_15m": {
       "symbol": "BTCUSDC",
@@ -299,283 +299,283 @@
     "ETHUSDC_15m": {
       "symbol": "ETHUSDC",
       "timeframe": "15m",
-      "count": 288,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:45:00+00:00",
-      "cached_at": "2025-08-28T16:47:03.065092+00:00"
+      "count": 96,
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:03.587946+00:00"
     },
     "BNBUSDC_15m": {
       "symbol": "BNBUSDC",
       "timeframe": "15m",
-      "count": 288,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:45:00+00:00",
-      "cached_at": "2025-08-28T16:47:03.967049+00:00"
+      "count": 96,
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:04.499383+00:00"
     },
     "ADAUSDC_15m": {
       "symbol": "ADAUSDC",
       "timeframe": "15m",
-      "count": 288,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:45:00+00:00",
-      "cached_at": "2025-08-28T16:47:04.882808+00:00"
+      "count": 96,
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:05.366041+00:00"
     },
     "XRPUSDC_15m": {
       "symbol": "XRPUSDC",
       "timeframe": "15m",
-      "count": 288,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:45:00+00:00",
-      "cached_at": "2025-08-28T16:47:05.736046+00:00"
+      "count": 96,
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:06.218339+00:00"
     },
     "DOGEUSDC_15m": {
       "symbol": "DOGEUSDC",
       "timeframe": "15m",
-      "count": 288,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:45:00+00:00",
-      "cached_at": "2025-08-28T16:47:06.620346+00:00"
+      "count": 96,
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:07.154366+00:00"
     },
     "SOLUSDC_15m": {
       "symbol": "SOLUSDC",
       "timeframe": "15m",
-      "count": 288,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:45:00+00:00",
-      "cached_at": "2025-08-28T16:47:07.540047+00:00"
+      "count": 96,
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:08.183879+00:00"
     },
     "PEPEUSDC_15m": {
       "symbol": "PEPEUSDC",
       "timeframe": "15m",
-      "count": 288,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:45:00+00:00",
-      "cached_at": "2025-08-28T16:47:08.456961+00:00"
+      "count": 96,
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:09.077630+00:00"
     },
     "SHIBUSDC_15m": {
       "symbol": "SHIBUSDC",
       "timeframe": "15m",
-      "count": 288,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:45:00+00:00",
-      "cached_at": "2025-08-28T16:47:09.371116+00:00"
+      "count": 96,
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:10.013612+00:00"
     },
     "XLMUSDC_15m": {
       "symbol": "XLMUSDC",
       "timeframe": "15m",
-      "count": 288,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:45:00+00:00",
-      "cached_at": "2025-08-28T16:47:10.232176+00:00"
+      "count": 96,
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:10.888275+00:00"
     },
     "LINKUSDC_15m": {
       "symbol": "LINKUSDC",
       "timeframe": "15m",
-      "count": 288,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:45:00+00:00",
-      "cached_at": "2025-08-28T16:47:11.149073+00:00"
+      "count": 96,
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:11.739990+00:00"
     },
     "IOTAUSDC_15m": {
       "symbol": "IOTAUSDC",
       "timeframe": "15m",
-      "count": 288,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:45:00+00:00",
-      "cached_at": "2025-08-28T16:47:12.057703+00:00"
+      "count": 96,
+      "first_candle": "2025-08-27T17:15:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:12.611461+00:00"
     },
     "BTCUSDC_30m": {
       "symbol": "BTCUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:20.644843+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:13.472423+00:00"
     },
     "ETHUSDC_30m": {
       "symbol": "ETHUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:21.540826+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:14.323341+00:00"
     },
     "BNBUSDC_30m": {
       "symbol": "BNBUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:22.492127+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:15.169555+00:00"
     },
     "ADAUSDC_30m": {
       "symbol": "ADAUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:23.393165+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:15.993468+00:00"
     },
     "XRPUSDC_30m": {
       "symbol": "XRPUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:24.719511+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:16.816744+00:00"
     },
     "DOGEUSDC_30m": {
       "symbol": "DOGEUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:25.595744+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:17.639814+00:00"
     },
     "SOLUSDC_30m": {
       "symbol": "SOLUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:26.480726+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:18.942883+00:00"
     },
     "PEPEUSDC_30m": {
       "symbol": "PEPEUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:27.412713+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:19.790832+00:00"
     },
     "SHIBUSDC_30m": {
       "symbol": "SHIBUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:28.376021+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:20.642121+00:00"
     },
     "XLMUSDC_30m": {
       "symbol": "XLMUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:29.245271+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:21.477930+00:00"
     },
     "LINKUSDC_30m": {
       "symbol": "LINKUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:30.131448+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:22.317540+00:00"
     },
     "IOTAUSDC_30m": {
       "symbol": "IOTAUSDC",
       "timeframe": "30m",
-      "count": 145,
-      "first_candle": "2025-08-25T16:30:00+00:00",
-      "last_candle": "2025-08-28T16:30:00+00:00",
-      "cached_at": "2025-08-28T16:30:31.004289+00:00"
+      "count": 48,
+      "first_candle": "2025-08-27T17:30:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:23.162141+00:00"
     },
     "BTCUSDC_1h": {
       "symbol": "BTCUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:12.620553+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:24.001258+00:00"
     },
     "ETHUSDC_1h": {
       "symbol": "ETHUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:13.498093+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:24.831269+00:00"
     },
     "BNBUSDC_1h": {
       "symbol": "BNBUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:14.419693+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:25.671110+00:00"
     },
     "ADAUSDC_1h": {
       "symbol": "ADAUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:15.292599+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:26.519106+00:00"
     },
     "XRPUSDC_1h": {
       "symbol": "XRPUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:16.174837+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:27.352237+00:00"
     },
     "DOGEUSDC_1h": {
       "symbol": "DOGEUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:17.073150+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:28.635868+00:00"
     },
     "SOLUSDC_1h": {
       "symbol": "SOLUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:17.963005+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:29.477691+00:00"
     },
     "PEPEUSDC_1h": {
       "symbol": "PEPEUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:18.842051+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:30.785277+00:00"
     },
     "SHIBUSDC_1h": {
       "symbol": "SHIBUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:19.738586+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:31.603627+00:00"
     },
     "XLMUSDC_1h": {
       "symbol": "XLMUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:20.651365+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:32.436600+00:00"
     },
     "LINKUSDC_1h": {
       "symbol": "LINKUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:24.660477+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:33.260221+00:00"
     },
     "IOTAUSDC_1h": {
       "symbol": "IOTAUSDC",
       "timeframe": "1h",
-      "count": 72,
-      "first_candle": "2025-08-25T17:00:00+00:00",
-      "last_candle": "2025-08-28T16:00:00+00:00",
-      "cached_at": "2025-08-28T16:27:25.550169+00:00"
+      "count": 24,
+      "first_candle": "2025-08-27T18:00:00+00:00",
+      "last_candle": "2025-08-28T17:00:00+00:00",
+      "cached_at": "2025-08-28T17:09:34.080864+00:00"
     }
   },
-  "last_update": "2025-08-28T17:09:02.714636+00:00"
+  "last_update": "2025-08-28T17:22:18.461669+00:00"
 }

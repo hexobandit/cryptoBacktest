@@ -52,6 +52,12 @@ def parse_args() -> argparse.Namespace:
         help="Specific timeframes to test (default: all configured timeframes)",
     )
     
+    parser.add_argument(
+        "--no-ema-exit",
+        action="store_true",
+        help="Disable EMA bearish exit (only use TP/SL for exits)",
+    )
+    
     return parser.parse_args()
 
 
@@ -71,6 +77,10 @@ def main() -> None:
     if args.days:
         settings.days_back = args.days
     
+    # Handle EMA exit flag
+    if args.no_ema_exit:
+        settings.ema_bearish_exit_enabled = False
+    
     # Determine symbols and timeframes to test
     symbols = args.symbols if args.symbols else settings.symbols
     timeframes = args.timeframes if args.timeframes else settings.timeframes
@@ -83,6 +93,7 @@ def main() -> None:
     console.print(f"  Stop loss: {settings.stop_loss_percent * 100:.1f}%")
     console.print(f"  Fee: {settings.trade_fee_percent * 100:.1f}%")
     console.print(f"  EMA periods: {settings.ema_short_period}/{settings.ema_long_period} on {settings.ema_timeframe}")
+    console.print(f"  EMA bearish exit: {'Enabled' if settings.ema_bearish_exit_enabled else 'Disabled'}")
     console.print(f"  Symbols: {len(symbols)}")
     console.print(f"  Timeframes: {', '.join(timeframes)}")
     

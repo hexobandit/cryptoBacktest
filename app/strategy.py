@@ -107,8 +107,8 @@ class Backtester:
                     exit_reason = ExitReason.STOP_LOSS
                     exit_price = current_position.entry_price * (1 + self.stop_loss)
                 
-                # EMA bearish exit (only if in loss)
-                elif current_return < 0:
+                # EMA bearish exit (only if enabled and in loss)
+                elif settings.ema_bearish_exit_enabled and current_return < 0:
                     ema_short, ema_long = get_ema_at_timestamp(
                         df_4h, timestamp, self.ema_short_period, self.ema_long_period
                     )

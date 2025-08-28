@@ -22,13 +22,14 @@ class Settings(BaseSettings):
     # Trading parameters
     trade_amount: float = 100.0
     trade_fee_percent: float = 0.001
-    take_profit_percent: float = 0.08
-    stop_loss_percent: float = -0.06
+    take_profit_percent: float = 0.01
+    stop_loss_percent: float = -0.50
     
     # EMA parameters
     ema_short_period: int = 1
     ema_long_period: int = 99
     ema_timeframe: str = "4h"
+    ema_bearish_exit_enabled: bool = False  # Enable EMA bearish exit when in loss
     
     # Data parameters
     days_back: int = 100
