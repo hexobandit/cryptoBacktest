@@ -23,7 +23,7 @@ class Settings(BaseSettings):
     trade_amount: float = 100.0
     trade_fee_percent: float = 0.001
     take_profit_percent: float = 0.08
-    stop_loss_percent: float = -0.08
+    stop_loss_percent: float = -0.06
     
     # EMA parameters
     ema_short_period: int = 1

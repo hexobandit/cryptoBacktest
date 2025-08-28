@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from typing import Any
 
 import pandas as pd
@@ -114,9 +114,16 @@ def load_klines(
                         # Merge with cache
                         df = cache_manager.merge_with_cache(symbol, timeframe, new_df)
                         cache_manager.save_cache(symbol, timeframe, df)
-                        return df
+                    else:
+                        df = cached_df
+                else:
+                    df = cached_df
                 
-                return cached_df
+                # Trim to requested days_back range
+                cutoff_time = datetime.now(timezone.utc) - timedelta(days=days_back)
+                df = df[df["timestamp"] >= cutoff_time].copy()
+                
+                return df
     
     # Full download
     print(f"Fetching {days_back} days of {timeframe} data for {symbol}...")

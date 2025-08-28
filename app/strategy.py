@@ -240,7 +240,10 @@ def run_backtest(
         return None
     
     # Load 4h data for EMA calculation
-    df_4h = load_klines(symbol, "4h", days_back, force_refresh)
+    # Need at least 99 * 4 hours = 396 hours = 16.5 days for EMA_99
+    # Fetch extra data to ensure we have enough for EMA calculation
+    ema_days_needed = max(20, days_back)  # At least 20 days for EMA_99
+    df_4h = load_klines(symbol, "4h", ema_days_needed, force_refresh)
     
     if df_4h.empty:
         print(f"No 4h data available for {symbol}")
