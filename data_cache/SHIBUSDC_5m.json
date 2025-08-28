@@ -1,32 +1,6 @@
 {
   "klines": [
     {
-      "timestamp": "2025-08-27T17:15:00.000000Z",
-      "open": 1.254e-05,
-      "high": 1.255e-05,
-      "low": 1.253e-05,
-      "close": 1.254e-05,
-      "volume": 86235202.0,
-      "close_time": "2025-08-27T17:19:59.999000Z",
-      "quote_volume": 1080.89730209,
-      "trades": 15,
-      "taker_buy_base_volume": 31052753.0,
-      "taker_buy_quote_volume": 389.45652262
-    },
-    {
-      "timestamp": "2025-08-27T17:20:00.000000Z",
-      "open": 1.254e-05,
-      "high": 1.257e-05,
-      "low": 1.254e-05,
-      "close": 1.257e-05,
-      "volume": 625055602.0,
-      "close_time": "2025-08-27T17:24:59.999000Z",
-      "quote_volume": 7850.73237093,
-      "trades": 32,
-      "taker_buy_base_volume": 545599196.0,
-      "taker_buy_quote_volume": 6853.59554191
-    },
-    {
       "timestamp": "2025-08-27T17:25:00.000000Z",
       "open": 1.257e-05,
       "high": 1.259e-05,
@@ -3743,8 +3717,34 @@
       "trades": 13,
       "taker_buy_base_volume": 48153655.0,
       "taker_buy_quote_volume": 599.68143788
+    },
+    {
+      "timestamp": "2025-08-28T17:15:00.000000Z",
+      "open": 1.248e-05,
+      "high": 1.249e-05,
+      "low": 1.246e-05,
+      "close": 1.248e-05,
+      "volume": 471609409.0,
+      "close_time": "2025-08-28T17:19:59.999000Z",
+      "quote_volume": 5885.11643869,
+      "trades": 44,
+      "taker_buy_base_volume": 163865644.0,
+      "taker_buy_quote_volume": 2045.24780653
+    },
+    {
+      "timestamp": "2025-08-28T17:20:00.000000Z",
+      "open": 1.248e-05,
+      "high": 1.248e-05,
+      "low": 1.246e-05,
+      "close": 1.248e-05,
+      "volume": 57893300.0,
+      "close_time": "2025-08-28T17:24:59.999000Z",
+      "quote_volume": 722.12525127,
+      "trades": 13,
+      "taker_buy_base_volume": 15735602.0,
+      "taker_buy_quote_volume": 196.36828171
     }
   ],
-  "last_update": "2025-08-28T17:10:00+00:00",
-  "cached_at": "2025-08-28T17:11:48.613151+00:00"
+  "last_update": "2025-08-28T17:20:00+00:00",
+  "cached_at": "2025-08-28T17:22:19.371743+00:00"
 }

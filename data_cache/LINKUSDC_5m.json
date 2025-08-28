@@ -1,32 +1,6 @@
 {
   "klines": [
     {
-      "timestamp": "2025-08-27T17:15:00.000000Z",
-      "open": 24.33,
-      "high": 24.35,
-      "low": 24.3,
-      "close": 24.33,
-      "volume": 13113.99,
-      "close_time": "2025-08-27T17:19:59.999000Z",
-      "quote_volume": 319047.0629,
-      "trades": 277,
-      "taker_buy_base_volume": 6045.98,
-      "taker_buy_quote_volume": 147105.5386
-    },
-    {
-      "timestamp": "2025-08-27T17:20:00.000000Z",
-      "open": 24.33,
-      "high": 24.46,
-      "low": 24.32,
-      "close": 24.45,
-      "volume": 12339.18,
-      "close_time": "2025-08-27T17:24:59.999000Z",
-      "quote_volume": 300764.9741,
-      "trades": 283,
-      "taker_buy_base_volume": 6585.22,
-      "taker_buy_quote_volume": 160484.1658
-    },
-    {
       "timestamp": "2025-08-27T17:25:00.000000Z",
       "open": 24.44,
       "high": 24.51,
@@ -3743,8 +3717,34 @@
       "trades": 340,
       "taker_buy_base_volume": 6868.14,
       "taker_buy_quote_volume": 169503.3578
+    },
+    {
+      "timestamp": "2025-08-28T17:15:00.000000Z",
+      "open": 24.77,
+      "high": 24.82,
+      "low": 24.71,
+      "close": 24.72,
+      "volume": 42016.67,
+      "close_time": "2025-08-28T17:19:59.999000Z",
+      "quote_volume": 1041037.047,
+      "trades": 1525,
+      "taker_buy_base_volume": 14464.22,
+      "taker_buy_quote_volume": 358294.8682
+    },
+    {
+      "timestamp": "2025-08-28T17:20:00.000000Z",
+      "open": 24.71,
+      "high": 24.79,
+      "low": 24.67,
+      "close": 24.77,
+      "volume": 17009.35,
+      "close_time": "2025-08-28T17:24:59.999000Z",
+      "quote_volume": 420707.992,
+      "trades": 496,
+      "taker_buy_base_volume": 8801.77,
+      "taker_buy_quote_volume": 217750.1987
     }
   ],
-  "last_update": "2025-08-28T17:10:00+00:00",
-  "cached_at": "2025-08-28T17:11:51.111909+00:00"
+  "last_update": "2025-08-28T17:20:00+00:00",
+  "cached_at": "2025-08-28T17:22:21.136067+00:00"
 }

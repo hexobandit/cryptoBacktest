@@ -63,6 +63,7 @@ Options:
   --clear-cache        Clear all cached data and exit
   --symbols SYMBOLS    Specific symbols to test
   --timeframes TF      Specific timeframes to test
+  --no-ema-exit        Disable EMA bearish exit (only use TP/SL for exits)
 ```
 
 ### Examples
@@ -75,6 +76,11 @@ python -m app --days 30 --symbols BTCUSDC ETHUSDC
 Test specific timeframes with fresh data:
 ```bash
 python -m app --timeframes 1h 4h --refresh
+```
+
+Disable EMA bearish exit (only use TP/SL):
+```bash
+python -m app --days 7 --no-ema-exit
 ```
 
 Clear cache:
@@ -90,10 +96,10 @@ python -m app --clear-cache
 - No existing open position
 
 ### Exit Conditions (First Hit)
-1. **Take Profit**: +0.9% from entry
-2. **Stop Loss**: -20% from entry
-3. **EMA Bearish Exit**: Position in loss AND 4h EMA_1 < EMA_99
-4. **Forced Close**: End of dataset
+1. **Take Profit**: +1% from entry (configurable in config.py)
+2. **Stop Loss**: -50% from entry (configurable in config.py)
+3. **EMA Bearish Exit**: Position in loss AND 4h EMA_1 < EMA_99 (disabled by default, use --no-ema-exit to toggle)
+4. **Forced Close**: End of dataset (positions still open are closed at last candle price)
 
 ### Fees
 - 0.1% per side (entry and exit)
@@ -103,9 +109,10 @@ python -m app --clear-cache
 
 Default settings in `app/config.py`:
 - Trade amount: $100 per position
-- Take profit: 0.9%
-- Stop loss: -20%
+- Take profit: 1%
+- Stop loss: -50%
 - EMA periods: 1 and 99 on 4h timeframe
+- EMA bearish exit: Disabled by default (set `ema_bearish_exit_enabled: bool = True` to enable)
 - Symbols: BTC, ETH, BNB, ADA, XRP, DOGE, SOL, PEPE, SHIB, XLM, LINK, IOTA (all USDC pairs)
 
 ## Output
@@ -173,12 +180,31 @@ The tool respects Binance API rate limits:
 - Duplicate removal in cache merging
 - Deterministic calculations
 
+## Important Notes
+
+### Understanding Exit Reasons
+- **Forced Close**: Positions still open at the end of the backtest period are closed at the last candle's price. This can show as a loss even if no stop loss was hit.
+- **Minimum Loss from Fees**: Even breakeven trades will show a small loss due to fees (0.2% total for entry + exit).
+- **Data Requirements**: EMA calculation requires at least 20 days of 4h data. Short backtests (< 20 days) will still fetch sufficient 4h data for EMA calculation.
+
+### Debugging Trades
+Use the included debug script to analyze trade exits:
+```bash
+python debug_trades.py
+```
+
+This will show:
+- Exit reason breakdown
+- Detailed losing trades analysis
+- Verification of actual stop loss hits
+
 ## Limitations
 
 - Requires internet connection for initial data fetch
 - Cache expires after 24 hours
 - Maximum 1000 candles per API request
 - Binance API rate limits apply
+- EMA calculation requires minimum 20 days of 4h data (fetched automatically)
 
 ## Security
 
